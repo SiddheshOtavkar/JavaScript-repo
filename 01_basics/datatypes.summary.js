@@ -28,3 +28,11 @@ const myFunction = function() {
 
 console.log(typeof myFunction);
 myFunction()
+
+//  ------------------------------------------------------
+
+// Stack (Primitive) => we get copy of varibale, Heap (Non-Primitive) => we get reference
+
+let myYoutubeName = "codewithsiddhesh"
+
+
